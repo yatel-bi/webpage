@@ -119,6 +119,9 @@ html_theme_options = {
     ],
 }
 
+# remove the horrible blink character of links
+html_add_permalinks=False
+
 # Add any paths that contain custom themes here, relative to this directory.
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
