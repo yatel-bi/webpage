@@ -115,7 +115,8 @@ html_theme_options = {
         ("Documentation", "http://yatel.readthedocs.com", True),
         ("Code", "https://bitbucket.org/yatel/yatel", True),
         ("Issues", "https://bitbucket.org/yatel/yatel/issues?status=new&status=open", True),
-        ("Dev Discussion Group", "https://groups.google.com/forum/#!forum/utn_kdd", True)
+        ("Forum", "https://groups.google.com/forum/#!forum/utn_kdd", True),
+        ("License", "license")
     ],
 }
 

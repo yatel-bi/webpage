@@ -22,5 +22,5 @@ Welcome
 .. toctree::
     :maxdepth: 2
 
-    license.rst
+
 
