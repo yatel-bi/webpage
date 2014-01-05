@@ -1,19 +1,19 @@
 {# Import the theme's layout. #}
 {% extends "!layout.html" %}
 
-{% set css_files = css_files + ["_static/yatel.css"] %}
+{# Custom CSS overrides #}
+{% set bootswatch_css_custom = ['_static/yatel.css'] %}
 
 {% block sidebartoc %}
     {% include "globaltoc.html" %}
 {% endblock %}
-
 
 {# silence prev and next topic #}
 {% block sidebarrel %}
 {% endblock %}
 
 {# silence search #}
-{% block sidebarsearch %}
+{% block navbarsearch %}
 {% endblock %}
 
 

@@ -21,7 +21,7 @@ About
 
 .. toctree::
     :hidden:
-    :maxdepth: 2
+    :maxdepth: 1
 
     license.rst
     cite.rst

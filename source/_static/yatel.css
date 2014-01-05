@@ -1,3 +1,31 @@
+body, html {
+    background-color: #e2e5e2;
+    height: 100%
+}
+
+footer{
+    bottom: -50px;
+    position: absolute;
+}
+
+a, h1, h2, h3, h4, h5, h6 {
+    color: #758453;
+}
+
+a:hover {
+    color: #cbc085;
+}
+
+.reference, a tt, tt.xref {
+    font-family: "monospace";
+    font-style:italic;
+    font-weight:normal;
+}
+
+.navbar {
+    background-image: linear-gradient(to bottom, #000000 0px, #222222 100%);
+}
+
 .align-center , .center{
     display: block;
     margin-left: auto;
@@ -5,3 +33,13 @@
     text-align: center;
 }
 
+
+::selection {
+    background-color: #000000;
+    color: #758453;
+}
+
+::-moz-selection {
+    background-color: #000000;
+    color: #758453;
+}
