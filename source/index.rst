@@ -24,5 +24,5 @@ About
     :maxdepth: 1
 
     license.rst
-    cite.rst
+    resources.rst
 
