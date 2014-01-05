@@ -16,11 +16,13 @@
     **Bussines Intelligence Through Networks**
 
 
-Welcome
-=======
+About
+=====
 
 .. toctree::
+    :hidden:
     :maxdepth: 2
 
-
+    license.rst
+    cite.rst
 
