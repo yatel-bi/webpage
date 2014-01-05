@@ -2,3 +2,18 @@
 {% extends "!layout.html" %}
 
 {% set css_files = css_files + ["_static/yatel.css"] %}
+
+{% block sidebartoc %}
+    {% include "globaltoc.html" %}
+{% endblock %}
+
+
+{# silence prev and next topic #}
+{% block sidebarrel %}
+{% endblock %}
+
+{# silence search #}
+{% block sidebarsearch %}
+{% endblock %}
+
+

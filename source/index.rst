@@ -8,11 +8,19 @@
     .. image:: _static/yatel_color_small.png
         :align: center
         :scale: 100 %
+        :target: #
 
 
-Yatel - Network BI
-==================
+.. container:: center
+
+    **Bussines Intelligence Through Networks**
+
+
+Welcome
+=======
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 2
+
+    license.rst
 

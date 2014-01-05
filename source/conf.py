@@ -12,7 +12,7 @@
 # serve to show the default.
 
 import sys, os
-import sphinxtrap as st
+import sphinx_bootstrap_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -95,20 +95,37 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'sphinxtrap'
+html_theme = 'bootstrap'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+html_theme_options = {
+    'navbar_site_name': "Paginas",
+    'globaltoc_depth': 1,
+    'navbar_fixed_top': "false",
+    'source_link_position': "footer",
+    'navbar_sidebarrel': False,
+    'navbar_pagenav': False,
+
+    'navbar_links': [
+        ("Documentation", "http://yatel.readthedocs.com", True),
+        ("Code", "https://bitbucket.org/yatel/yatel", True),
+        ("Issues", "https://bitbucket.org/yatel/yatel/issues?status=new&status=open", True),
+        ("Dev Discussion Group", "https://groups.google.com/forum/#!forum/utn_kdd", True)
+    ],
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = [st.get_theme_dir()]
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = ""
+html_title = "Yatel BI"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
