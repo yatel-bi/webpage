@@ -3,6 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. _about:
+
 .. container:: center
 
     .. image:: _static/yatel_color_small.png
@@ -23,6 +25,10 @@ About
     :hidden:
     :maxdepth: 1
 
+    download.rst
+    docs.rst
+    contact.rst
+    contribute.rst
     license.rst
     resources.rst
 

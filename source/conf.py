@@ -112,10 +112,6 @@ html_theme_options = {
     'navbar_pagenav': False,
 
     'navbar_links': [
-        ("Documentation", "http://yatel.readthedocs.com", True),
-        ("Code", "https://bitbucket.org/yatel/yatel", True),
-        ("Issues", "https://bitbucket.org/yatel/yatel/issues?status=new&status=open", True),
-        ("Forum", "https://groups.google.com/forum/#!forum/utn_kdd", True),
     ],
 }
 
