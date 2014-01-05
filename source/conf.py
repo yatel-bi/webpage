@@ -42,7 +42,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Yatel - Network BI'
-copyright = u'2014, Yatel Team'
+copyright = u'2010, 2011, 2012, 2013, 2014, Yatel Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
