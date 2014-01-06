@@ -18,8 +18,8 @@
     **Bussines Intelligence Through Networks**
 
 
-About
-=====
+Yatel: Bussines Intelligence Through Networks
+=============================================
 
 .. toctree::
     :hidden:
