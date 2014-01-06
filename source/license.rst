@@ -7,7 +7,7 @@ The WISKEY-WARE License
 -----------------------
 
 The license under which the Yatel software is released is the WISKEY-WARE
-(a funny version of `BSD-Like <license http://en.wikipedia.org/wiki/BSD_licenses>`_).
+(a funny version of `BSD-Like <http://en.wikipedia.org/wiki/BSD_licenses>`_).
 A copy of the license is included with every copy of Yatel, but you can also
 read the text of the license `here <_static/LICENSE.txt>`_.
 

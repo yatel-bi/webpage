@@ -31,4 +31,5 @@ About
     contribute.rst
     license.rst
     resources.rst
+    ack.rst
 
