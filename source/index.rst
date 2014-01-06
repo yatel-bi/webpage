@@ -26,8 +26,7 @@ About
     :maxdepth: 1
 
     download.rst
-    docs.rst
-    contact.rst
+    support.rst
     contribute.rst
     license.rst
     resources.rst

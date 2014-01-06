@@ -13,6 +13,6 @@ list
 - Bootstrap (http://getbootstrap.com/)
 - Sphinx-Bootstrap (https://github.com/ryan-roemer/sphinx-bootstrap-theme)
 - Pentaho - How to Contribute (http://wiki.pentaho.com/display/COM/How+to+Contribute)
-- http://poi.apache.org/guidelines.html#Introduction
+- Apache POI - Contribution Guidelines (http://poi.apache.org/guidelines.html)
 - All the open source and Python Community in general
 
