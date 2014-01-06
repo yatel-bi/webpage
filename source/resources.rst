@@ -26,7 +26,7 @@ Department, `UTN-FRC <http://www.frc.utn.edu.ar/>`_, Argentina, together
 with open source community.
 
 As Yatel is also an open source project, do not forget to also satisfy
-:ref:`license <License>` conditions.
+:ref:`license <license>` conditions.
 
 
 Downloads
