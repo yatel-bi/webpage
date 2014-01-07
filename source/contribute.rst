@@ -8,8 +8,8 @@ Contribute
 Yatel Repositories
 ------------------
 
-- `Yatel Network OLAP Server Repo <https://bitbucket.org/yatel/yatel>`_ (mercurial)
-- `Yatel Webpage Repo <https://bitbucket.org/yatel/webpage>`_ (mercurial)
+- Yatel Network OLAP Server Repo: |YATEL_OLAP_REPO| (mercurial)
+- Yatel Webpage Repo: |YATEL_WEBPAGE_REPO| (mercurial)
 
 
 .. _issues:
@@ -17,8 +17,8 @@ Yatel Repositories
 Issues trakers
 --------------
 
-- `Yatel Network OLAP Server Issues <https://bitbucket.org/yatel/yatel/issues>`_
-- `Yatel Webpage Issues <https://bitbucket.org/yatel/webpage/issues>`_
+- Yatel Network OLAP Server Issues: |YATEL_OLAP_ISSUES|
+- Yatel Webpage Issues: |YATEL_WEBPAGE_ISSUES|
 
 
 .. _how_to_contribute:
@@ -33,7 +33,7 @@ evaluation you are in, you can make valuable contributions.
 
 Here's your guide to submitting just about any contribution to the Yatel
 project. If you don't find the answers you need here, please post your question
-to our `forums <https://groups.google.com/forum/#!forum/utn_kdd>`_.
+to our forums |YATEL_FORUM|.
 
 
 Discussion Forum and Issues - Our Links to the Community

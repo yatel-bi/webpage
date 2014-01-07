@@ -8,7 +8,7 @@ Support
 Documents & Manual
 ------------------
 
-The full Yatel reference manual are located at http://yatel.readthedocs.org/
+The full Yatel reference manual are located at |YATEL_DOC|
 
 
 .. _contact:
@@ -16,7 +16,7 @@ The full Yatel reference manual are located at http://yatel.readthedocs.org/
 Contact
 -------
 
-Our forum are located at: https://groups.google.com/forum/#!forum/utn_kdd
+Our forum are located at: |YATEL_FORUM|
 
 
 Office
