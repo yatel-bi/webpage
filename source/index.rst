@@ -5,13 +5,13 @@
 
 .. container:: center
 
-    .. image:: _static/yatel_color_small.png
+    .. image:: _static/web_logo.png
         :class: main-logo
         :align: center
         :scale: 100 %
         :target: #
 
-    .. image:: _static/yatel_color_small.png
+    .. image:: _static/web_logo.png
         :class: small-logo
         :align: center
         :scale: 50 %
