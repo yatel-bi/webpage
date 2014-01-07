@@ -11,5 +11,4 @@ SUBSTITUTIONS = {
     "YATEL_WEBPAGE_REPO": 'https://bitbucket.org/yatel/webpage',
     "YATEL_WEBPAGE_ISSUES": 'https://bitbucket.org/yatel/webpage/issues',
 
-
 }
