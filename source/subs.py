@@ -8,7 +8,7 @@ SUBSTITUTIONS = {
     "YATEL_OLAP_REPO": 'https://bitbucket.org/yatel/yatel',
     "YATEL_OLAP_ISSUES": 'https://bitbucket.org/yatel/yatel/issues',
     "YATEL_OLAP_DOWNLOADS": 'https://bitbucket.org/yatel/yatel/downloads',
-    "YATEL_LAST_VERSION_DEV": 'https://bitbucket.org/yatel/yatel/get/dev.tar.gz',
+    "YATEL_OLAP_LAST_VERSION_DEV": 'https://bitbucket.org/yatel/yatel/get/dev.tar.gz',
     "YATEL_OLAP_LAST_VERSION_STABLE": 'https://bitbucket.org/yatel/yatel/downloads/yatel-0.2.tar.gz',
 
     "YATEL_WEBPAGE_REPO": 'https://bitbucket.org/yatel/webpage',
