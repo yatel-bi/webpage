@@ -3,8 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. _about:
-
 .. container:: center
 
     .. image:: _static/yatel_color_small.png
@@ -23,6 +21,7 @@
 
     Bussines Intelligence Through Networks
 
+.. _about:
 
 Yatel: Bussines Intelligence Through Networks
 =============================================
@@ -34,7 +33,6 @@ Yatel: Bussines Intelligence Through Networks
     download.rst
     support.rst
     contribute.rst
-    license.rst
+    pubs.rst
     resources.rst
-    ack.rst
-
+    legal.rst
