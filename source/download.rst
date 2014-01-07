@@ -6,7 +6,7 @@ Download and Installation
 The main installation instructions are located at the manual: |YATEL_DOC| in
 the installation chapter.
 
-Nwtwork OLAP Server
+Network OLAP Server
 -------------------
 
 - **Last Version STABLE:** |YATEL_OLAP_LAST_VERSION_STABLE|
