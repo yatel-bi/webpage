@@ -8,14 +8,20 @@
 .. container:: center
 
     .. image:: _static/yatel_color_small.png
+        :class: main-logo
         :align: center
         :scale: 100 %
         :target: #
 
+    .. image:: _static/yatel_color_small.png
+        :class: small-logo
+        :align: center
+        :scale: 50 %
+        :target: #
 
-.. container:: center
+.. container:: center legend
 
-    **Bussines Intelligence Through Networks**
+    Bussines Intelligence Through Networks
 
 
 Yatel: Bussines Intelligence Through Networks

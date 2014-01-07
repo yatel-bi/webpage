@@ -1,13 +1,13 @@
 .. _ack:
 
-Acknowledgments
-===============
+Thanks
+======
 
 Acknowledgments
 ---------------
 
 A lot of resources are used for create this webpage. This is a simple partial
-list
+list of "thanks"
 
 - Sphinx (http://sphinx-doc.org/)
 - Bootstrap (http://getbootstrap.com/)
