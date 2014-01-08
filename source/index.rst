@@ -36,3 +36,20 @@ Yatel: Bussines Intelligence Through Networks
     pubs.rst
     resources.rst
     legal.rst
+
+
+.. container:: carousel
+
+    .. container:: caption
+
+        dead
+
+    .. image:: _static/web_logo.png
+
+    .. image:: _static/carousel/01.png
+
+    .. container:: caption
+
+        Powerfull **Client** ``asi``
+
+

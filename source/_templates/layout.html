@@ -1,8 +1,10 @@
 {# Import the theme's layout. #}
 {% extends "!layout.html" %}
 
-{# Custom CSS overrides #}
+{# Custom CSS/JS #}
 {% set bootswatch_css_custom = ['_static/yatel.css'] %}
+{% set script_files = script_files + ["_static/yatel.js"] %}
+
 
 {% block sidebartoc %}
     {% include "globaltoc.html" %}
