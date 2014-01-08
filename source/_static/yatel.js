@@ -21,7 +21,7 @@ $(document).ready(function() {
         $divCarousel.attr("id", id);
         // Indicators
         var $ol = $('<ol class="carousel-indicators"/>');
-        for(var idx=0; idx <= data.length; idx++){
+        for(var idx=0; idx < data.length; idx++){
             var $li = $('<li/>');
             $li.attr("data-slide-to", idx.toString());
             $li.attr("data-target", "#" + id);
