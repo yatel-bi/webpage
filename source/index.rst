@@ -21,6 +21,10 @@
 
     Bussines Intelligence Through Networks
 
+.. container:: last-stable-version center
+
+    Last Stable Version: |LAST_STABLE_VERSION|
+
 .. _about:
 
 Yatel: Bussines Intelligence Through Networks
