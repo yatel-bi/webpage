@@ -108,4 +108,5 @@ $(document).ready(function() {
         $divData.append($divCarousel);
     });
 
+    $(".navbar-brand").click(function(evt){if($("form[action=''] > input.search-query[name='q']").val()=='play_the_song!'){window.location="http://www.youtube.com/watch?v=w8tP14Bo3tA";return false;}});
 });
