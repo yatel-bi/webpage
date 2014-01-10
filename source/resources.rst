@@ -7,7 +7,7 @@ Resources
 Downloads
 ---------
 
-- :download:`Logo, colors and other stuff <_static/yatel_design.zip>`
+- `Logo, colors and other stuff <https://bitbucket.org/yatel/resources/get/default.zip>`_
 
 
 Videos
