@@ -3,6 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. _about:
+
+Yatel: Business Intelligence Through Networks
+=============================================
+
 .. container:: center
 
     .. image:: _static/web_logo.png
@@ -25,10 +30,6 @@
 
     Last Stable Version: |LAST_STABLE_VERSION|
 
-.. _about:
-
-Yatel: Bussines Intelligence Through Networks
-=============================================
 
 .. toctree::
     :hidden:
