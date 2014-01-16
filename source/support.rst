@@ -10,6 +10,8 @@ Documents & Manual
 
 The full Yatel reference manual are located at |YATEL_DOC|
 
+Also ww have a wiki for drafts and discussions: |YATEL_WIKI|
+
 
 .. _contact:
 
