@@ -38,8 +38,12 @@ You can find us at the Software Investigation Laboratory at
 
 .. raw:: html
 
-    <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0"
-     marginwidth="0"
-     src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;&amp;geocode=&amp;q=Universidad+Tecnol%C3%B3gica+Nacional+UTN,+C%C3%B3rdoba,+Argentina&amp;aq=0&amp;oq=universidad+tecnologica+na&amp;sll=37.0625,-95.677068&amp;sspn=34.534108,86.572266&amp;t=h&amp;ie=UTF8&amp;hq=Universidad+Tecnol%C3%B3gica+Nacional+UTN,&amp;hnear=C%C3%B3rdoba,+Argentina&amp;ll=-31.442358,-64.193244&amp;spn=0.095542,0.024453&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=Universidad+Tecnol%C3%B3gica+Nacional+UTN,+C%C3%B3rdoba,+Argentina&amp;aq=0&amp;oq=universidad+tecnologica+na&amp;sll=37.0625,-95.677068&amp;sspn=34.534108,86.572266&amp;t=h&amp;ie=UTF8&amp;hq=Universidad+Tecnol%C3%B3gica+Nacional+UTN,&amp;hnear=C%C3%B3rdoba,+Argentina&amp;ll=-31.442358,-64.193244&amp;spn=0.095542,0.024453" style="color:#0000FF;text-align:left">Full Map</a></small>
-
-
+    <iframe width="100%" height="350" frameborder="0" scrolling="no"
+     marginheight="0" marginwidth="0"
+     src="http://www.openstreetmap.org/export/embed.html?bbox=-64.19485330581665%2C-31.443332550976162%2C-64.19074416160583%2C-31.44114029168724&amp;layer=mapnik" style="border: 1px solid black">
+     </iframe><br/>
+     <small class="center">
+        <a href="http://www.openstreetmap.org/#map=18/-31.44224/-64.19280">
+            Full Map
+        </a>
+    </small>
