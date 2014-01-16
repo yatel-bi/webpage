@@ -19,7 +19,7 @@
 
 .. container:: center legend
 
-    Bussines Intelligence Through Networks
+    Business Intelligence Through Networks
 
 .. container:: last-stable-version center
 
