@@ -24,7 +24,7 @@ and true to its spirit.
 Acknowledgments
 ---------------
 
-A lot of resources are used for create this webpage. This is a simple partial
+A lot of resources were used to create this webpage. This is a simple partial
 list of "thanks"
 
 - Sphinx (http://sphinx-doc.org/)

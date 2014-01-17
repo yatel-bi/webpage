@@ -23,9 +23,9 @@ BibTeX entry:
     @article{}
 
 
-Yatel is developed at Software Investigation Laboratory, System Engineering
-Department, `UTN-FRC <http://www.frc.utn.edu.ar/>`_, Argentina, together
-with open source community.
+Yatel is developed at the Software Investigation Laboratory from System
+Engineering Department at `UTN-FRC <http://www.frc.utn.edu.ar/>`_, Argentina,
+together with the open source community.
 
 As Yatel is also an open source project, do not forget to also satisfy
 :ref:`license <license>` conditions.

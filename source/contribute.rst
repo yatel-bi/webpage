@@ -53,7 +53,7 @@ that take place there.
 
 All bug reports, code, and solution contributions are recorded and tracked
 through our Bitbucket issue and bug tracking system. You can find our
-Issues system :ref:`here <issues>`.
+Issue system :ref:`here <issues>`.
 Bitbucket provides the Yatel community with access to valuable information
 like the status of a particular bug fix, prioritization of new features and
 enhancements, a long term roadmap for the platform and a place for the
@@ -73,7 +73,7 @@ in which case you can get a status update on when a fix may be available and
 possibly a work around for the time being. There's also a chance that the
 behavior is expected by design and you can get further clarification on how
 the product is designed to work.  Please do a thorough search of Issues
-before submitting new issues. In many cases you may be seeing a different
+before submitting a new one. In many cases you may be seeing a different
 symptom of a known bug. Having duplicate Issue cases wastes time and resources
 that could be spent on design and coding. If you find that your bug has already
 been reported, you can vote for it to be moved higher in the priority list.
