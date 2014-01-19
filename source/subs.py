@@ -10,7 +10,7 @@ INFO = json.load(urllib2.urlopen(URL))["info"]
 
 SUBSTITUTIONS = {
     "YATEL_DOC": 'http://yatel.readthedocs.org/',
-    "YATEL_FORUM": 'https://forum.getyatel.com.ar',
+    "YATEL_FORUM": 'http://forum.getyatel.com.ar',
     "YATEL_WIKI": 'http://wiki.getyatel.com.ar/',
 
     "LAST_STABLE_VERSION": ':ref:`{} <downloads>`'.format(INFO["version"]),
