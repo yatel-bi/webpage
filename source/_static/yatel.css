@@ -66,10 +66,15 @@ a:hover, a:active, a:focus {
 }
 
 
-.align-center , .center{
+.align-center , .center {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+.align-left , .left {
+    margin-right: auto;
+    text-align: left;
 }
 
 ::selection {
@@ -82,6 +87,22 @@ a:hover, a:active, a:focus {
     color: #758453;
 }
 
+img.weblogo {
+    width: 80%;
+}
+
+div.main-row {
+   padding-bottom: 25px;
+}
+
+div.usages-row {
+   padding-top: 25px;
+}
+
+iframe.dbs {
+    width: 100%;
+}
+
 @media (min-width: 980px) {
 
     .navbar-brand {
@@ -90,22 +111,12 @@ a:hover, a:active, a:focus {
         background-position: left center;
     }
 
-    img.main-logo {
-        display: block;
-    }
-
-    img.small-logo {
-        display: none;
-    }
-
 }
 
-@media (max-width: 980px) {
-    img.main-logo {
-        display: none;
-    }
+.carousel-indicators {
+    bottom: -35px;
+}
 
-    img.small-logo {
-        display: block;
-    }
+div.usages-row td {
+    vertical-align: middle !important;
 }

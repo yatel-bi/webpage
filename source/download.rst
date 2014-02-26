@@ -1,7 +1,7 @@
 .. _downloads:
 
-Download and Installation
-=========================
+Download
+========
 
 The main installation instructions are located at the manual: |YATEL_DOC| in
 the installation chapter.
