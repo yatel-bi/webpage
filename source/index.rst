@@ -18,15 +18,27 @@ Yatel: Business Intelligence Through Networks
                 <table class="table table-condensed text-left">
                     <tr>
                         <td><img src="_static/icons/lib.png"></td>
-                        <td>Integrate your Python app with Yatel, also you can take advantage of Python interactive mode for fast data analysis.</td>
+                        <td>
+                            Integrate your <a target="_blank" href="http://python.org">Python</a> app
+                            with Yatel, also you can take advantage of
+                            <a target="_blank" href="http://python.org">Python</a>
+                            interactive mode for fast data analysis.
+                        </td>
                     </tr>
                     <tr>
                         <td><img src="_static/icons/db.png"></td>
-                        <td>Deploy yatel as remote MNOLAP and comunicate with agnostic JSON based query language from any tecnology.</td>
+                        <td>
+                            Deploy yatel as remote MNOLAP and comunicate with agnostic
+                            <a target="_blank"  href="http://json.org/">JSON</a> based query
+                            language from any tecnology.
+                        </td>
                     </tr>
                     <tr>
                         <td><img src="_static/icons/kani.png"></td>
-                        <td>Use the Yatel kahni to analize your data with an user friendly interface.</td>
+                        <td>
+                            Use the <a target="_blank" href="http://kaani.getyatel.com.ar">Yatel Kaani</a>
+                            to analize your data with an user friendly interface.
+                        </td>
                     </tr>
                 </table>
             </div>
