@@ -56,16 +56,16 @@ Yatel: Business Intelligence Through Networks
               <!-- Wrapper for slides -->
               <div class="carousel-inner">
                 <div class="item active">
-                  <img src="_static/carousel/01.jpg" alt="Access your data as a network defined according to your needs">
+                  <img src="_static/carousel/01.png" alt="Access your data as a network defined according to your needs">
                 </div>
                 <div class="item">
-                  <img src="_static/carousel/02.jpg" alt="Use as warehouse all the mayors DB vendors">
+                  <img src="_static/carousel/02.png" alt="Use as warehouse all the mayors DB vendors">
                 </div>
                 <div class="item">
-                  <img src="_static/carousel/03.jpg" alt="Dynamically explore your networks">
+                  <img src="_static/carousel/03.png" alt="Dynamically explore your networks">
                 </div>
                 <div class="item">
-                    <img src="_static/carousel/04.jpg" alt="Powered By Python">
+                    <img src="_static/carousel/04.png" alt="Powered By Python">
                 </div>
               </div>
             </div>
