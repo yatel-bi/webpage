@@ -80,7 +80,6 @@ Yatel: Business Intelligence Through Networks
     support.rst
     contribute.rst
     pubs.rst
-    dbs.rst
     resources.rst
     legal.rst
 
