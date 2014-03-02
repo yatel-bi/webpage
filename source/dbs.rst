@@ -10,6 +10,6 @@ Databases and Case Studies
 
 .. raw:: html
 
-    <iframe class="dbs"
-            href="http://bitbucket.org/yatel/dbs/src/tip?at=default">
+    <iframe class="dbs" target="_top"
+            src="http://bitbucket.org/yatel/dbs/src/tip?at=default">
     </iframe>
