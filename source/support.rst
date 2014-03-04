@@ -29,7 +29,7 @@ You can find us at the Software Investigation Laboratory at
 
 ::
 
-    UTN-FRC - Edificio Madders 3th Floor
+    UTN-FRC - Edificio Madders 2nd Floor
     Maestro M. Lopez esq. Cruz Roja Argentina
     Ciudad Universitaria - Córdoba Capital X5000
     Córdoba, Argentina
