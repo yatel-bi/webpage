@@ -36,7 +36,7 @@ Yatel: Business Intelligence Through Networks
                     <tr>
                         <td><img src="_static/icons/kani.png"></td>
                         <td>
-                            Use the <a target="_blank" href="http://kaani.getyatel.com.ar">Yatel Kaani</a>
+                            Use the <a target="_blank" href="http://kaani.getyatel.org">Yatel Kaani</a>
                             to analize your data with an user friendly interface.
                         </td>
                     </tr>
