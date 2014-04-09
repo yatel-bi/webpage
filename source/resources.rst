@@ -10,6 +10,13 @@ Downloads
 - `Logo, colors and other stuff <https://bitbucket.org/yatel/resources/get/default.zip>`_
 
 
+Slides
+------
+
+- Data Analisis Through Networks, UTN-FRC, 2014-APR-08, (Spanish):
+  `Slides <https://bytebucket.org/leliel12/talks/raw/tip/2014/yatel_talk/yatel_dm_redes.pdf>`_
+
+
 Videos
 ------
 
