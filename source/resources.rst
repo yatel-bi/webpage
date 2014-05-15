@@ -10,6 +10,13 @@ Downloads
 - `Logo, colors and other stuff <https://bitbucket.org/yatel/resources/get/default.zip>`_
 
 
+Posters
+-------
+
+- Graph Exploration for Data Analysis, UNTDF, WICC 2014, (Spanish):
+  `Poster <https://bitbucket.org/leliel12/talks/src/tip/wicc2014/yatel_poster/poster.pdf?at=default>`_
+
+
 Slides
 ------
 
