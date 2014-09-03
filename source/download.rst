@@ -14,16 +14,17 @@ Network OLAP Server
 
 The main download page for stable and old versions are located at
 |YATEL_OLAP_DOWNLOADS|
+(`Old Versions <https://bitbucket.org/yatel/yatel/downloads>`_)
 
 Also you can clone from the mercurial repository |YATEL_OLAP_REPO| or using
 *distutils* or *setuptools* (PyPi: |YATEL_OLAP_PYPI|)
 
-::
+.. code-block:: bash
 
-    > pip install yatel
+    $ pip install yatel
 
 or
 
-::
+.. code-block:: bash
 
-    > easy_install yatel
+    $ easy_install yatel

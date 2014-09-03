@@ -17,12 +17,13 @@ SUBSTITUTIONS = {
 
     "YATEL_OLAP_REPO": 'https://bitbucket.org/yatel/yatel',
     "YATEL_OLAP_ISSUES": 'https://bitbucket.org/yatel/yatel/issues',
-    "YATEL_OLAP_DOWNLOADS": 'https://bitbucket.org/yatel/yatel/downloads',
+    "YATEL_OLAP_DOWNLOADS": 'https://pypi.python.org/pypi/yatel/',
     "YATEL_OLAP_LAST_VERSION_DEV": 'https://bitbucket.org/yatel/yatel/get/dev.tar.gz',
-    "YATEL_OLAP_LAST_VERSION_STABLE": INFO["download_url"],
+    "YATEL_OLAP_LAST_VERSION_STABLE": 'https://pypi.python.org/packages/source/y/yatel/yatel-{}.tar.gz'.format(INFO["version"]),
     "YATEL_OLAP_PYPI": 'https://pypi.python.org/pypi/yatel',
 
     "YATEL_WEBPAGE_REPO": 'https://bitbucket.org/yatel/webpage',
     "YATEL_WEBPAGE_ISSUES": 'https://bitbucket.org/yatel/webpage/issues',
 
 }
+
